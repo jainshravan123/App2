@@ -42,8 +42,8 @@ public class MainActivity extends AppCompatActivity {
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
 
-        for(int i=0; i<=10; i++){
-        }
+        //for loop has been removed from fere.
+      
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
